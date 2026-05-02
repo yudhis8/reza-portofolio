@@ -46,7 +46,7 @@ const PORTFOLIO_DATA = {
       description: "A comprehensive full-stack e-commerce platform featuring a versatile web store, POS system admin dashboard, and an Android native eBook reader module with DRM.",
       longDescription: "Directed a 9-person cross-functional team to architect a complete digital transformation for LP3ES. This massive undertaking involved building a consumer-facing Remix.js web store, a React.js admin dashboard with POS capabilities to streamline warehouse dispatch, and a secure React Native mobile app featuring a custom native Android DRM eBook reader.",
       tech: ["Remix.js", "React Native", "NestJS"],
-      // CHANGE THIS URL TO YOUR REAL PROJECT SCREENSHOT
+      // CHANGE THIS URL TO YOUR REAL PROJECT SCREENSHOTs
       image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=800",
       gallery: [
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
